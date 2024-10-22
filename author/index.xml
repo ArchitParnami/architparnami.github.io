@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archit Parnami</title>
+    <link>http://localhost:1313/author/</link>
+      <atom:link href="http://localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Archit Parnami</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@2024 Archit Parnami. All Rights Reserved.</copyright><lastBuildDate>Tue, 17 May 2022 16:00:00 -0400</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>Archit Parnami</title>
+      <link>http://localhost:1313/author/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/author/</link>
+      <pubDate>Tue, 17 May 2022 16:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/author/</guid>
+      <description>&lt;p&gt;Hello and thank you for visiting my website. I am currently working as a Quantitative Analytics Specialist at Wells Fargo where I am responsible for building machine learning models for fraud detection. I joined Wells Fargo in 2022 after finishing my PhD in Computer Science from UNC Charlotte where I worked under the supervision of Dr. Minwoo Lee on the topic of few-shot learning.&lt;/p&gt;
+&lt;p&gt;I also have a passion for teaching and have had the opportunity to hold teaching roles for Machine Learning and Computer Vision courses at UNC Charlotte.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Enhancement for Cloud-Based Few-Shot Learning</title>
+      <link>http://localhost:1313/publication/05-fs-privacy/</link>
+      <pubDate>Tue, 17 May 2022 16:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/publication/05-fs-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Few Examples: A Summary of Approaches to Few-Shot Learning</title>
+      <link>http://localhost:1313/publication/03-fsl-survey/</link>
+      <pubDate>Mon, 07 Mar 2022 16:58:49 -0400</pubDate>
+      <guid>http://localhost:1313/publication/03-fsl-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruning Attention Heads of Transformer Models Using A* Search</title>
+      <link>http://localhost:1313/publication/02-pruning/</link>
+      <pubDate>Wed, 17 Nov 2021 16:58:49 -0400</pubDate>
+      <guid>http://localhost:1313/publication/02-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation of Node to Knowledge Graph Embeddings for Faster Link Prediction in Social Networks</title>
+      <link>http://localhost:1313/publication/04-graph/</link>
+      <pubDate>Wed, 17 Nov 2021 16:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/publication/04-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Keyword Spotting With Prototypical Networks</title>
+      <link>http://localhost:1313/publication/01-fs-kws/</link>
+      <pubDate>Mon, 03 Aug 2020 16:58:49 -0400</pubDate>
+      <guid>http://localhost:1313/publication/01-fs-kws/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

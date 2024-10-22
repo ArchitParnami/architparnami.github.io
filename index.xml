@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archit Parnami</title>
-    <link>https://ArchitParnami.github.io/</link>
-      <atom:link href="https://ArchitParnami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Archit Parnami</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@2022 Archit Parnami. All Rights Reserved.</copyright><lastBuildDate>Tue, 17 May 2022 16:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@2024 Archit Parnami. All Rights Reserved.</copyright><lastBuildDate>Tue, 17 May 2022 16:00:00 -0400</lastBuildDate>
     <image>
-      <url>https://ArchitParnami.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu10226378635250344412.png</url>
       <title>Archit Parnami</title>
-      <link>https://ArchitParnami.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Privacy Enhancement for Cloud-Based Few-Shot Learning</title>
-      <link>https://ArchitParnami.github.io/publication/05-fs-privacy/</link>
+      <link>http://localhost:1313/publication/05-fs-privacy/</link>
       <pubDate>Tue, 17 May 2022 16:00:00 -0400</pubDate>
-      <guid>https://ArchitParnami.github.io/publication/05-fs-privacy/</guid>
+      <guid>http://localhost:1313/publication/05-fs-privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning from Few Examples: A Summary of Approaches to Few-Shot Learning</title>
-      <link>https://ArchitParnami.github.io/publication/03-fsl-survey/</link>
+      <link>http://localhost:1313/publication/03-fsl-survey/</link>
       <pubDate>Mon, 07 Mar 2022 16:58:49 -0400</pubDate>
-      <guid>https://ArchitParnami.github.io/publication/03-fsl-survey/</guid>
+      <guid>http://localhost:1313/publication/03-fsl-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pruning Attention Heads of Transformer Models Using A* Search</title>
-      <link>https://ArchitParnami.github.io/publication/02-pruning/</link>
+      <link>http://localhost:1313/publication/02-pruning/</link>
       <pubDate>Wed, 17 Nov 2021 16:58:49 -0400</pubDate>
-      <guid>https://ArchitParnami.github.io/publication/02-pruning/</guid>
+      <guid>http://localhost:1313/publication/02-pruning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transformation of Node to Knowledge Graph Embeddings for Faster Link Prediction in Social Networks</title>
-      <link>https://ArchitParnami.github.io/publication/04-graph/</link>
+      <link>http://localhost:1313/publication/04-graph/</link>
       <pubDate>Wed, 17 Nov 2021 16:00:00 -0400</pubDate>
-      <guid>https://ArchitParnami.github.io/publication/04-graph/</guid>
+      <guid>http://localhost:1313/publication/04-graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Pixelization with Differential Privacy</title>
-      <link>https://ArchitParnami.github.io/project/dp-pix/</link>
+      <link>http://localhost:1313/project/dp-pix/</link>
       <pubDate>Mon, 03 Aug 2020 17:13:12 -0400</pubDate>
-      <guid>https://ArchitParnami.github.io/project/dp-pix/</guid>
+      <guid>http://localhost:1313/project/dp-pix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Few-Shot Keyword Spotting With Prototypical Networks</title>
-      <link>https://ArchitParnami.github.io/publication/01-fs-kws/</link>
+      <link>http://localhost:1313/publication/01-fs-kws/</link>
       <pubDate>Mon, 03 Aug 2020 16:58:49 -0400</pubDate>
-      <guid>https://ArchitParnami.github.io/publication/01-fs-kws/</guid>
+      <guid>http://localhost:1313/publication/01-fs-kws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laplacian Regularized Few-Shot Learning</title>
-      <link>https://ArchitParnami.github.io/post/laplacian-fsl/</link>
+      <link>http://localhost:1313/post/laplacian-fsl/</link>
       <pubDate>Mon, 03 Aug 2020 16:39:18 -0400</pubDate>
-      <guid>https://ArchitParnami.github.io/post/laplacian-fsl/</guid>
+      <guid>http://localhost:1313/post/laplacian-fsl/</guid>
       <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Paper&lt;/th&gt;
-&lt;th&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Paper&lt;/th&gt;
+          &lt;th&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2006.15486&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2006.15486&lt;/a&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Code&lt;/td&gt;
-&lt;td&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Code&lt;/td&gt;
+          &lt;td&gt;
 &lt;a href=&#34;https://github.com/imtiazziko/LaplacianShot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/imtiazziko/LaplacianShot&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h1 id=&#34;main-idea&#34;&gt;Main Idea&lt;/h1&gt;
 &lt;ul&gt;
@@ -110,43 +110,43 @@ where $x_q$ is the encoding of the data point $z_q$.&lt;/p&gt;
 &lt;p&gt;Using an iterative bound optimization procedure (Ex., Expectation-Maximization (EM)), $\mathcal{E}(\mathbf{Y})$  is minimized and $\mathbf{Y}$ is found. Their optimization procedure converges within 15 iterations. Please refer to the paper for details on optimization method.&lt;/p&gt;
 &lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Network&lt;/th&gt;
-&lt;th&gt;dataset&lt;/th&gt;
-&lt;th&gt;1-shot&lt;/th&gt;
-&lt;th&gt;5-shot&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;ResNet-18&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;mini&lt;/em&gt;ImageNet&lt;/td&gt;
-&lt;td&gt;$72.11 \pm 0.19$&lt;/td&gt;
-&lt;td&gt;$82.31 \pm 0.14$&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ResNet-18&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;tiered&lt;/em&gt;ImageNet&lt;/td&gt;
-&lt;td&gt;$78.98 \pm 0.21$&lt;/td&gt;
-&lt;td&gt;$86.39 \pm 0.16$&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ResNet-18&lt;/td&gt;
-&lt;td&gt;CUB&lt;/td&gt;
-&lt;td&gt;$80.96$&lt;/td&gt;
-&lt;td&gt;$88.68$&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ResNet-18&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;mini&lt;/em&gt;ImageNet $\rightarrow$ CUB&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-&lt;td&gt;$55.46$&lt;/td&gt;
-&lt;td&gt;$66.33$&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;dataset&lt;/th&gt;
+          &lt;th&gt;1-shot&lt;/th&gt;
+          &lt;th&gt;5-shot&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ResNet-18&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;mini&lt;/em&gt;ImageNet&lt;/td&gt;
+          &lt;td&gt;$72.11 \pm 0.19$&lt;/td&gt;
+          &lt;td&gt;$82.31 \pm 0.14$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ResNet-18&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;tiered&lt;/em&gt;ImageNet&lt;/td&gt;
+          &lt;td&gt;$78.98 \pm 0.21$&lt;/td&gt;
+          &lt;td&gt;$86.39 \pm 0.16$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ResNet-18&lt;/td&gt;
+          &lt;td&gt;CUB&lt;/td&gt;
+          &lt;td&gt;$80.96$&lt;/td&gt;
+          &lt;td&gt;$88.68$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ResNet-18&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;mini&lt;/em&gt;ImageNet $\rightarrow$ CUB&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+          &lt;td&gt;$55.46$&lt;/td&gt;
+          &lt;td&gt;$66.33$&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;Laplace-FSL-1.png&#34; alt=&#34;Finding the right $\lambda$&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Laplace-FSL-2.png&#34; alt=&#34;Convergence of optimization procedure&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Finding the right $\\lambda$&#34; src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Convergence of optimization procedure&#34; src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-2.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;cite--bibtex&#34;&gt;Cite / BibTex&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;@article{Ziko2020LaplacianRF,
   title={Laplacian Regularized Few-Shot Learning},
