@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Archit Parnami</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@2024 Archit Parnami. All Rights Reserved.</copyright><lastBuildDate>Tue, 17 May 2022 16:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@2024 Archit Parnami. All Rights Reserved.</copyright><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/images/icon_hu10226378635250344412.png</url>
       <title>Archit Parnami</title>
@@ -145,8 +145,8 @@ where $x_q$ is the encoding of the data point $z_q$.&lt;/p&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img alt=&#34;Finding the right $\\lambda$&#34; src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Convergence of optimization procedure&#34; src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-1.png&#34; alt=&#34;Finding the right $\lambda$&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-2.png&#34; alt=&#34;Convergence of optimization procedure&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;cite--bibtex&#34;&gt;Cite / BibTex&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;@article{Ziko2020LaplacianRF,
   title={Laplacian Regularized Few-Shot Learning},

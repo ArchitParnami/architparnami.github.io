@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-05T17:39:18-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teaching/</loc>
+    <lastmod>2025-01-05T17:39:18-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/author/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication-type/3/</loc>
-    <lastmod>2022-05-17T16:00:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
@@ -148,6 +151,8 @@
   </url><url>
     <loc>http://localhost:1313/tag/transfer-learning/</loc>
     <lastmod>2020-08-03T16:39:18-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/consulting/</loc>
   </url><url>
     <loc>http://localhost:1313/award/</loc>
   </url><url>

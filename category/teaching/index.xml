@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Archit Parnami</title>
+    <link>http://localhost:1313/category/teaching/</link>
+      <atom:link href="http://localhost:1313/category/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@2024 Archit Parnami. All Rights Reserved.</copyright><lastBuildDate>Mon, 03 Aug 2020 16:39:18 -0400</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/category/teaching/</link>
+    </image>
+    
+    <item>
+      <title>DSBA 6165: Deep Learning &amp; Artificial Intelligence</title>
+      <link>http://localhost:1313/teaching/dsba-6165-spring-2025/</link>
+      <pubDate>Mon, 03 Aug 2020 16:39:18 -0400</pubDate>
+      <guid>http://localhost:1313/teaching/dsba-6165-spring-2025/</guid>
+      <description>&lt;h1 id=&#34;dsba-6165-deep-learning--artificial-intelligence&#34;&gt;DSBA 6165: Deep Learning &amp;amp; Artificial Intelligence&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

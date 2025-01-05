@@ -97,8 +97,8 @@ where $x_q$ is the encoding of the data point $z_q$.&lt;/p&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img alt=&#34;Finding the right $\\lambda$&#34; src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Convergence of optimization procedure&#34; src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-1.png&#34; alt=&#34;Finding the right $\lambda$&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/laplacian-fsl/Laplace-FSL-2.png&#34; alt=&#34;Convergence of optimization procedure&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;cite--bibtex&#34;&gt;Cite / BibTex&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;@article{Ziko2020LaplacianRF,
   title={Laplacian Regularized Few-Shot Learning},

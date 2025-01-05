@@ -17,8 +17,9 @@
       <link>http://localhost:1313/author/</link>
       <pubDate>Tue, 17 May 2022 16:00:00 -0400</pubDate>
       <guid>http://localhost:1313/author/</guid>
-      <description>&lt;p&gt;Hello and thank you for visiting my website. I am currently working as a Quantitative Analytics Specialist at Wells Fargo where I am responsible for building machine learning models for fraud detection. I joined Wells Fargo in 2022 after finishing my PhD in Computer Science from UNC Charlotte where I worked under the supervision of Dr. Minwoo Lee on the topic of few-shot learning.&lt;/p&gt;
-&lt;p&gt;I also have a passion for teaching and have had the opportunity to hold teaching roles for Machine Learning and Computer Vision courses at UNC Charlotte.&lt;/p&gt;
+      <description>&lt;p&gt;Hello and thank you for visiting my website. I am currently working as a Quantitative Analytics Specialist at Wells Fargo where I am responsible for building machine learning models for fraud detection. I joined Wells Fargo in 2022 after finishing my PhD in Computer Science from UNC Charlotte.&lt;/p&gt;
+&lt;p&gt;I am broadly interested in Deep Learning and have had the opportunity to hold teaching roles for Computer Vision and Machine Learning courses at UNC Charlotte.&lt;/p&gt;
+&lt;p&gt;I have worked on a few research topics such as few-shot learning, meta-learning, link prediction using knowledge graphs and pruning of transformer models.&lt;/p&gt;
 </description>
     </item>
     
