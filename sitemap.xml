@@ -2,160 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ArchitParnami.github.io/</loc>
     <lastmod>2025-01-05T17:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://ArchitParnami.github.io/teaching/</loc>
     <lastmod>2025-01-05T17:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/</loc>
+    <loc>https://ArchitParnami.github.io/author/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/3/</loc>
+    <loc>https://ArchitParnami.github.io/publication-type/3/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://ArchitParnami.github.io/authors/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ArchitParnami.github.io/categories/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/cloud/</loc>
+    <loc>https://ArchitParnami.github.io/tag/cloud/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/differential-privacy/</loc>
+    <loc>https://ArchitParnami.github.io/tag/differential-privacy/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/few-shot-learning/</loc>
+    <loc>https://ArchitParnami.github.io/category/few-shot-learning/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/few-shot-learning/</loc>
+    <loc>https://ArchitParnami.github.io/tag/few-shot-learning/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/image-classification/</loc>
+    <loc>https://ArchitParnami.github.io/tag/image-classification/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/liyue-fan/</loc>
+    <loc>https://ArchitParnami.github.io/author/liyue-fan/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/meta-learning/</loc>
+    <loc>https://ArchitParnami.github.io/tag/meta-learning/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/minwoo-lee/</loc>
+    <loc>https://ArchitParnami.github.io/author/minwoo-lee/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/muhammad-usama/</loc>
+    <loc>https://ArchitParnami.github.io/author/muhammad-usama/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/privacy/</loc>
+    <loc>https://ArchitParnami.github.io/tag/privacy/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/05-fs-privacy/</loc>
+    <loc>https://ArchitParnami.github.io/publication/05-fs-privacy/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://ArchitParnami.github.io/publication_types/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://ArchitParnami.github.io/publication/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ArchitParnami.github.io/tags/</loc>
     <lastmod>2022-05-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/03-fsl-survey/</loc>
+    <loc>https://ArchitParnami.github.io/publication/03-fsl-survey/</loc>
     <lastmod>2022-03-07T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/survey/</loc>
+    <loc>https://ArchitParnami.github.io/tag/survey/</loc>
     <lastmod>2022-03-07T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/model-compression/</loc>
+    <loc>https://ArchitParnami.github.io/tag/model-compression/</loc>
     <lastmod>2021-11-17T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/nlp/</loc>
+    <loc>https://ArchitParnami.github.io/category/nlp/</loc>
     <lastmod>2021-11-17T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/02-pruning/</loc>
+    <loc>https://ArchitParnami.github.io/publication/02-pruning/</loc>
     <lastmod>2021-11-17T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/rahul-singh/</loc>
+    <loc>https://ArchitParnami.github.io/author/rahul-singh/</loc>
     <lastmod>2021-11-17T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/sentiment-analysis/</loc>
+    <loc>https://ArchitParnami.github.io/tag/sentiment-analysis/</loc>
     <lastmod>2021-11-17T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/tarun-joshi/</loc>
+    <loc>https://ArchitParnami.github.io/author/tarun-joshi/</loc>
     <lastmod>2021-11-17T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/transformers/</loc>
+    <loc>https://ArchitParnami.github.io/tag/transformers/</loc>
     <lastmod>2021-11-17T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/graph/</loc>
+    <loc>https://ArchitParnami.github.io/category/graph/</loc>
     <lastmod>2021-11-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/graph-embedding/</loc>
+    <loc>https://ArchitParnami.github.io/tag/graph-embedding/</loc>
     <lastmod>2021-11-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/link-prediction/</loc>
+    <loc>https://ArchitParnami.github.io/tag/link-prediction/</loc>
     <lastmod>2021-11-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mayuri-deshpande/</loc>
+    <loc>https://ArchitParnami.github.io/author/mayuri-deshpande/</loc>
     <lastmod>2021-11-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/social-networks/</loc>
+    <loc>https://ArchitParnami.github.io/tag/social-networks/</loc>
     <lastmod>2021-11-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/04-graph/</loc>
+    <loc>https://ArchitParnami.github.io/publication/04-graph/</loc>
     <lastmod>2021-11-17T16:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/admin/</loc>
+    <loc>https://ArchitParnami.github.io/author/admin/</loc>
     <lastmod>2020-08-03T17:13:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/image-pixelation/</loc>
+    <loc>https://ArchitParnami.github.io/tag/image-pixelation/</loc>
     <lastmod>2020-08-03T17:13:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/dp-pix/</loc>
+    <loc>https://ArchitParnami.github.io/project/dp-pix/</loc>
     <lastmod>2020-08-03T17:13:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/category/paper-implementation/</loc>
+    <loc>https://ArchitParnami.github.io/category/paper-implementation/</loc>
     <lastmod>2020-08-03T17:13:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://ArchitParnami.github.io/project/</loc>
     <lastmod>2020-08-03T17:13:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/audio/</loc>
+    <loc>https://ArchitParnami.github.io/tag/audio/</loc>
     <lastmod>2020-08-03T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/01-fs-kws/</loc>
+    <loc>https://ArchitParnami.github.io/publication/01-fs-kws/</loc>
     <lastmod>2020-08-03T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/keyword-spotting/</loc>
+    <loc>https://ArchitParnami.github.io/tag/keyword-spotting/</loc>
     <lastmod>2020-08-03T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/speech-recognition/</loc>
+    <loc>https://ArchitParnami.github.io/tag/speech-recognition/</loc>
     <lastmod>2020-08-03T16:58:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/2020/</loc>
+    <loc>https://ArchitParnami.github.io/tag/2020/</loc>
     <lastmod>2020-08-03T16:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/icml/</loc>
+    <loc>https://ArchitParnami.github.io/tag/icml/</loc>
     <lastmod>2020-08-03T16:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/laplacian-fsl/</loc>
+    <loc>https://ArchitParnami.github.io/post/laplacian-fsl/</loc>
     <lastmod>2020-08-03T16:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://ArchitParnami.github.io/post/</loc>
     <lastmod>2020-08-03T16:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/transductive/</loc>
+    <loc>https://ArchitParnami.github.io/tag/transductive/</loc>
     <lastmod>2020-08-03T16:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/transfer-learning/</loc>
+    <loc>https://ArchitParnami.github.io/tag/transfer-learning/</loc>
     <lastmod>2020-08-03T16:39:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/consulting/</loc>
+    <loc>https://ArchitParnami.github.io/consulting/</loc>
   </url><url>
-    <loc>http://localhost:1313/award/</loc>
+    <loc>https://ArchitParnami.github.io/award/</loc>
   </url><url>
-    <loc>http://localhost:1313/talk/</loc>
+    <loc>https://ArchitParnami.github.io/talk/</loc>
   </url>
 </urlset>

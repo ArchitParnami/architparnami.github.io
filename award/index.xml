@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awards &amp; Fellowships | Archit Parnami</title>
-    <link>http://localhost:1313/award/</link>
-      <atom:link href="http://localhost:1313/award/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ArchitParnami.github.io/award/</link>
+      <atom:link href="https://ArchitParnami.github.io/award/index.xml" rel="self" type="application/rss+xml" />
     <description>Awards &amp; Fellowships</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@2024 Archit Parnami. All Rights Reserved.</copyright>
     <image>
-      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
+      <url>https://ArchitParnami.github.io/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Awards &amp; Fellowships</title>
-      <link>http://localhost:1313/award/</link>
+      <link>https://ArchitParnami.github.io/award/</link>
     </image>
     
   </channel>
